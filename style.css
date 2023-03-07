@@ -132,7 +132,7 @@ nav li img {
 /*--- header ---*/
 header {
     grid-area: header;
-    background-image: url("../assets/IMG_5023.jpg");
+    background-image: url("IMG_5023.jpg");
 }
 
 header h1 {
